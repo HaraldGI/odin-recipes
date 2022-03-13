@@ -1,0 +1,23 @@
+[33mcommit 994a5a8a8acce9d1cd615ff566f11c8122b5306f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Harald Gimse <haraldgimse@gmail.com>
+Date:   Sun Mar 13 16:40:31 2022 +0100
+
+    Added a couple of extra recipes
+
+[33mcommit 254edf341630f6e611ff957cafa75da15d754c97[m
+Author: Harald Gimse <haraldgimse@gmail.com>
+Date:   Sun Mar 13 16:33:18 2022 +0100
+
+    Added new directory for recipes. Added lasagna.html
+
+[33mcommit 5f83efe3618202e2de1c2dddf01dbb133c499733[m
+Author: Harald Gimse <haraldgimse@gmail.com>
+Date:   Sun Mar 13 16:30:48 2022 +0100
+
+    Made index.html and HTML boilerplate
+
+[33mcommit 1b5bb393341bf5388af5d80dd0c3ae58b55431e0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: HaraldGI <haraldgimse@gmail.com>
+Date:   Sun Mar 13 16:24:22 2022 +0100
+
+    Initial commit
